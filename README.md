@@ -5,7 +5,7 @@
 </div>
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=Prata-del&style=flat-square&color=000000&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=Vetten-del&style=flat-square&color=000000&label=PROFILE+VIEWS)
 
 
 ---
@@ -86,6 +86,6 @@
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Prata-del&bg_color=0d0d0d&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&area_color=333333&hide_border=false&border_color=2a2a2a&title_color=FFFFFF)](https://github.com/Vetten-del)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vetten-del&bg_color=0d0d0d&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&area_color=333333&hide_border=false&border_color=2a2a2a&title_color=FFFFFF)](https://github.com/Vetten-del)
 
 </div>
